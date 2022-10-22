@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 800" width="1280" height="800">
+	<title>template</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #bbdab6 } 
+		.s1 { fill: #4d8544 } 
+	</style>
+	<path id="Background" class="s0" d="m0 0h1280v800h-1280z"/>
+	<path id="Border" fill-rule="evenodd" class="s1" d="m0 0h1280v800h-1280zm43 43v714h1194v-714z"/>
+	<text id="" style="transform: matrix(1,0,0,1,640,468.48)" >
+	</text>
+	<text id="" style="transform: matrix(1,0,0,1,641,397.28)" >
+	</text>
+</svg>

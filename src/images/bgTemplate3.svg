@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 800" width="1280" height="800">
+	<title>template</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #082b13 } 
+	</style>
+	<path id="Background" class="s0" d="m0 0h1280v800h-1280z"/>
+	<text id="" style="transform: matrix(1,0,0,1,640,455.68)" >
+	</text>
+	<text id="" style="transform: matrix(1,0,0,1,639,398.48)" >
+	</text>
+</svg>

@@ -1,0 +1,14 @@
+.line{
+    border-top: 2px solid black;
+}
+.company-logo img{
+    height: 100px;
+    width: 200px;
+}
+.feature-container{
+    background-image: url('../../images/bgTemplate2.svg');
+    margin: 8px;
+}
+.lines{
+    border-bottom: 2px solid black;
+}
