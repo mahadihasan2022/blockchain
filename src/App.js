@@ -5,9 +5,11 @@ import Prestigious from "./Component/Prestigious/Prestigious";
 import QuestionBox from "./Component/QuestionBox/QuestionBox";
 import SignUp from "./Component/SignUp/SignUp";
 import AboutUs from "./Page/AboutUs/AboutUs";
+import Blogs from "./Page/Blogs/Blogs";
 import ContactUs from "./Page/ContactUs/ContactUs";
 import DashBoard from "./Page/DashBoard/DashBoard";
 import Home from "./Page/Home/Home";
+import Services from "./Page/Services/Services";
 import Footer from "./Share/Footer/Footer";
 import Header from "./Share/Header/Header";
 import Review from "./Share/Review/Review";
@@ -26,6 +28,8 @@ function App() {
      <Route path="/about" element={<AboutUs></AboutUs>}></Route>
      <Route path="/forum" element={<Forum></Forum>}></Route>
      <Route path="/contact" element={<ContactUs></ContactUs>}></Route>
+     <Route path="/blogs" element={<Blogs></Blogs>}></Route>
+     <Route path="/services" element={<Services></Services>}></Route>
      <Route path="/login" element={<Login/>}></Route>
      <Route path="/signup" element={<SignUp></SignUp>}></Route>
      <Route path="/dash" element={<DashBoard></DashBoard>}></Route>

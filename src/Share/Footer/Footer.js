@@ -191,16 +191,16 @@ const Footer = () => {
       
           <div class="mt-12 border-t border-white/10 pt-8">
             <div class="grid grid-cols-1 gap-8 lg:grid-cols-2">
-              <p class="text-center text-xs text-gray-400 lg:text-left">
-                Copyright &copy; 2022. Company Name. All rights reserved.
+              <p class="text-center text-white font-bold italic text-xs  lg:text-left">
+                Copyright &copy; 2022. Mahadi Hasan Mim. All rights reserved.
               </p>
       
               <nav
-                class="flex justify-center gap-4 text-xs text-gray-400 lg:justify-end"
+                class="flex justify-center gap-4 font-bold text-white text-xs  lg:justify-end"
               >
-                <a href=""> Terms & Conditions </a>
-                <a href=""> Privacy Policy </a>
-                <a href=""> Cookies </a>
+                <a  className='text-white' href=""> Terms & Conditions </a>
+                <a className='text-white' href=""> Privacy Policy </a>
+                <a className='text-white' href=""> Cookies </a>
               </nav>
             </div>
           </div>
